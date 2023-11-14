@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 561,
-    "timeWeek": 561,
-    "timeMonth": 561,
-    "timeYear": 561,
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://nextcloud.com/wp-content/uploads/2022/03/favicon.png",
     "slug": "cloud-services",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-14": 129
+      "2023-11-14": 190
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 616,
-    "timeWeek": 616,
-    "timeMonth": 616,
-    "timeYear": 616,
+    "time": 606,
+    "timeDay": 606,
+    "timeWeek": 606,
+    "timeMonth": 606,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 1189,
-    "timeWeek": 1189,
-    "timeMonth": 1189,
-    "timeYear": 1189,
+    "time": 1180,
+    "timeDay": 1180,
+    "timeWeek": 1180,
+    "timeMonth": 1180,
+    "timeYear": 1180,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 615,
-    "timeWeek": 615,
-    "timeMonth": 615,
-    "timeYear": 615,
+    "time": 608,
+    "timeDay": 608,
+    "timeWeek": 608,
+    "timeMonth": 608,
+    "timeYear": 608,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 652,
-    "timeWeek": 652,
-    "timeMonth": 652,
-    "timeYear": 652,
+    "time": 638,
+    "timeDay": 638,
+    "timeWeek": 638,
+    "timeMonth": 638,
+    "timeYear": 638,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 210,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
+    "time": 200,
+    "timeDay": 200,
+    "timeWeek": 200,
+    "timeMonth": 200,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   }
 ]
