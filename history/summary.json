@@ -1,25 +1,5 @@
 [
   {
-    "name": "Broken Portal",
-    "url": "https://broken.zyradyl.moe",
-    "icon": "https://icons.duckduckgo.com/ip3/broken.zyradyl.moe.ico",
-    "slug": "broken-portal",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-11-14": 0
-    }
-  },
-  {
     "name": "Auth Portal",
     "url": "https://auth.zyradyl.moe",
     "icon": "https://icons.duckduckgo.com/ip3/auth.zyradyl.moe.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 553,
-    "timeWeek": 553,
-    "timeMonth": 553,
-    "timeYear": 553,
+    "time": 527,
+    "timeDay": 527,
+    "timeWeek": 527,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.zyradyl.moe.ico",
     "slug": "cloud-services",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-14": 36
+      "2023-11-14": 38
     }
   },
   {
@@ -68,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 636,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 586,
+    "timeDay": 586,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1237,
-    "timeWeek": 1237,
-    "timeMonth": 1237,
-    "timeYear": 1237,
+    "time": 1175,
+    "timeDay": 1175,
+    "timeWeek": 1175,
+    "timeMonth": 1175,
+    "timeYear": 1175,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 600,
-    "timeWeek": 600,
-    "timeMonth": 600,
-    "timeYear": 600,
+    "time": 560,
+    "timeDay": 560,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 682,
-    "timeWeek": 682,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "time": 622,
+    "timeDay": 622,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {}
   },
   {
@@ -140,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 180,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "time": 178,
+    "timeDay": 178,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   }
 ]
