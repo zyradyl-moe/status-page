@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-14": 513
+      "2023-11-14": 518
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://request.zyradyl.moe",
     "icon": "https://request.zyradyl.moe/favicon-32x32.png",
     "slug": "maple-request-service",
-    "status": "degraded",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2378,
-    "timeDay": 2378,
-    "timeWeek": 2378,
-    "timeMonth": 2378,
-    "timeYear": 2378,
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
+    "time": 2324,
+    "timeDay": 2324,
+    "timeWeek": 2324,
+    "timeMonth": 2324,
+    "timeYear": 2324,
     "dailyMinutesDown": {
-      "2023-11-14": 0
+      "2023-11-14": 5
     }
   },
   {
