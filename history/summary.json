@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 549,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "time": 550,
+    "timeDay": 550,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-14": 518
+      "2023-11-14": 543
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 653,
-    "timeDay": 653,
-    "timeWeek": 653,
-    "timeMonth": 653,
-    "timeYear": 653,
+    "time": 662,
+    "timeDay": 662,
+    "timeWeek": 662,
+    "timeMonth": 662,
+    "timeYear": 662,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://request.zyradyl.moe/favicon-32x32.png",
     "slug": "maple-request-service",
     "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.09%",
-    "time": 2324,
-    "timeDay": 2324,
-    "timeWeek": 2324,
-    "timeMonth": 2324,
-    "timeYear": 2324,
-    "dailyMinutesDown": {
-      "2023-11-14": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2347,
+    "timeDay": 2347,
+    "timeWeek": 2347,
+    "timeMonth": 2347,
+    "timeYear": 2347,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Maple - User Portal",
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 617,
-    "timeWeek": 617,
-    "timeMonth": 617,
-    "timeYear": 617,
+    "time": 634,
+    "timeDay": 634,
+    "timeWeek": 634,
+    "timeMonth": 634,
+    "timeYear": 634,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 636,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 645,
+    "timeDay": 645,
+    "timeWeek": 645,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 201,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "time": 199,
+    "timeDay": 199,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   }
 ]
