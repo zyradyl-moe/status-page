@@ -20,7 +20,7 @@ status-website:
       href: /
     - title: Repo
       href: https://github.com/zyradyl-moe/status-page/tree/master
-  theme: dark
+  theme: night
 
 #
 # Git Configuration
