@@ -4,18 +4,20 @@
     "url": "$AUTH_PORTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.45%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "96.45%",
     "time": 600,
     "timeDay": 600,
     "timeWeek": 600,
     "timeMonth": 600,
     "timeYear": 600,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   },
   {
     "name": "Cloud Services",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-services",
     "status": "down",
-    "uptime": "6.10%",
-    "uptimeDay": "6.10%",
-    "uptimeWeek": "6.10%",
-    "uptimeMonth": "6.10%",
-    "uptimeYear": "6.10%",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-14": 0
+      "2023-11-14": 9
     }
   },
   {
@@ -42,72 +44,80 @@
     "url": "$ADMIN_PORTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "maple-admin-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.79%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "96.79%",
     "time": 517,
     "timeDay": 517,
     "timeWeek": 517,
     "timeMonth": 517,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   },
   {
     "name": "Maple - Request Service",
     "url": "$REQUEST_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "maple-request-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.32%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.32%",
     "time": 1097,
     "timeDay": 1097,
     "timeWeek": 1097,
     "timeMonth": 1097,
     "timeYear": 1097,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   },
   {
     "name": "Maple - User Portal",
     "url": "$MAPLE_ADDRESS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "maple-user-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.68%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
     "time": 621,
     "timeDay": 621,
     "timeWeek": 621,
     "timeMonth": 621,
     "timeYear": 621,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   },
   {
     "name": "Maple - Watch Service",
     "url": "$WATCH_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "maple-watch-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.21%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "98.21%",
     "time": 757,
     "timeDay": 757,
     "timeWeek": 757,
     "timeMonth": 757,
     "timeYear": 757,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   },
   {
     "name": "Storj Node Service",
@@ -115,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "storj-node-service",
     "status": "down",
-    "uptime": "4.90%",
-    "uptimeDay": "4.90%",
-    "uptimeWeek": "4.90%",
-    "uptimeMonth": "4.90%",
-    "uptimeYear": "4.90%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-14": 0
+      "2023-11-14": 9
     }
   }
 ]
