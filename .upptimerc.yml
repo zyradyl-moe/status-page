@@ -35,9 +35,6 @@ commitMessages:
 # Monitoring Configuration
 #
 sites:
-  - name: Broken Portal
-    url: https://broken.zyradyl.moe
-    maxResponseTime: 5000
   - name: Auth Portal
     url: https://auth.zyradyl.moe
     maxResponseTime: 5000
