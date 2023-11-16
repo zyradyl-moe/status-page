@@ -23,18 +23,18 @@
     "icon": "https://nextcloud.com/wp-content/uploads/2022/03/favicon.png",
     "slug": "cloud-services",
     "status": "up",
-    "uptime": "8.84%",
-    "uptimeDay": "8.84%",
-    "uptimeWeek": "8.84%",
-    "uptimeMonth": "8.84%",
-    "uptimeYear": "8.84%",
-    "time": 591,
-    "timeDay": 591,
-    "timeWeek": 591,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "uptime": "8.69%",
+    "uptimeDay": "8.69%",
+    "uptimeWeek": "8.69%",
+    "uptimeMonth": "8.69%",
+    "uptimeYear": "8.69%",
+    "time": 693,
+    "timeDay": 693,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {
-      "2023-11-16": 530
+      "2023-11-16": 542
     }
   },
   {
