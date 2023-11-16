@@ -37,10 +37,10 @@ sites:
     icon: https://www.authelia.com/favicon.ico
     maxResponseTime: 5000 
     url: https://auth.zyradyl.moe
-  #- name: Cloud Services
-  #  icon: https://nextcloud.com/wp-content/uploads/2022/03/favicon.png
-  #  maxResponseTime: 5000
-  #  url: https://cloud.zyradyl.moe
+  - name: Cloud Services
+    icon: https://nextcloud.com/wp-content/uploads/2022/03/favicon.png
+    maxResponseTime: 5000
+    url: https://cloud.zyradyl.moe
   - name: Maple - Admin Portal
     icon: https://heimdall.site/favicon-32x32.png
     maxResponseTime: 5000
