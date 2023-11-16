@@ -22,19 +22,19 @@
     "url": "https://cloud.zyradyl.moe",
     "icon": "https://nextcloud.com/wp-content/uploads/2022/03/favicon.png",
     "slug": "cloud-services",
-    "status": "down",
-    "uptime": "15.54%",
-    "uptimeDay": "15.54%",
-    "uptimeWeek": "15.54%",
-    "uptimeMonth": "15.54%",
-    "uptimeYear": "15.54%",
-    "time": 919,
-    "timeDay": 919,
-    "timeWeek": 919,
-    "timeMonth": 919,
-    "timeYear": 919,
+    "status": "up",
+    "uptime": "15.43%",
+    "uptimeDay": "15.43%",
+    "uptimeWeek": "15.43%",
+    "uptimeMonth": "15.43%",
+    "uptimeYear": "15.43%",
+    "time": 920,
+    "timeDay": 920,
+    "timeWeek": 920,
+    "timeMonth": 920,
+    "timeYear": 920,
     "dailyMinutesDown": {
-      "2023-11-16": 548
+      "2023-11-16": 554
     }
   },
   {
