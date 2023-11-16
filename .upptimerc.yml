@@ -4,7 +4,7 @@
 #
 owner: zyradyl-moe
 repo: status-page
-user-agent: zyradyl
+user-agent: yuno-senpai
 
 #
 # Status Page Configuration
@@ -25,12 +25,12 @@ status-website:
 #
 # Git Configuration
 #
-#commitMessages:
-#  commitAuthorName: "Yuno Senpai"
-#  commitAuthorEmail: "yuno@zyradyl.moe"
+commitMessages:
+  commitAuthorName: "Yuno Senpai"
+  commitAuthorEmail: "maple@zyradyl.moe"
 
 #
-# Monitoring Configuration
+# Endpoints Configuration
 #
 sites:
   - name: Auth Portal
