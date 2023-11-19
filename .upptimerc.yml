@@ -45,6 +45,10 @@ sites:
     icon: https://nextcloud.com/wp-content/uploads/2022/03/favicon.png
     maxResponseTime: 5000
     url: https://files.zyradyl.moe
+  - name: Maple - Media Browser
+    icon: https://nextcloud.com/wp-content/uploads/2022/03/favicon.png
+    maxResponseTime: 5000
+    url: https://browser.zyradyl.moe
   - name: Maple - Request Service
     icon: https://request.zyradyl.moe/favicon-32x32.png
     maxResponseTime: 5000
