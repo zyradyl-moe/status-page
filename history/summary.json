@@ -24,7 +24,7 @@
     "slug": "maple-admin-portal",
     "status": "down",
     "uptime": "88.45%",
-    "uptimeDay": "47.19%",
+    "uptimeDay": "47.18%",
     "uptimeWeek": "88.45%",
     "uptimeMonth": "88.45%",
     "uptimeYear": "88.45%",
@@ -34,7 +34,7 @@
     "timeMonth": 1020,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2023-11-19": 116,
+      "2023-11-19": 117,
       "2023-11-18": 644
     }
   },
