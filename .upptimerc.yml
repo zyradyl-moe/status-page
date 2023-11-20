@@ -37,10 +37,10 @@ sites:
     icon: https://www.authelia.com/favicon.ico
     maxResponseTime: 5000 
     url: https://auth.zyradyl.moe
-  - name: Maple - Admin Portal
-    icon: https://heimdall.site/favicon-32x32.png
+  - name: Maple - Access Portal
+    icon: https://zyradyl.moe/images/icons/favicon-32x32.png
     maxResponseTime: 5000
-    url: https://admin.zyradyl.moe
+    url: https://maple.zyradyl.moe
   - name: Maple - Cloud Services
     icon: https://www.seafile.com/media/img/favicon.png
     maxResponseTime: 5000
@@ -53,10 +53,6 @@ sites:
     icon: https://request.zyradyl.moe/favicon-32x32.png
     maxResponseTime: 5000
     url: https://request.zyradyl.moe
-  - name: Maple - User Portal
-    icon: https://zyradyl.moe/images/icons/favicon-32x32.png
-    maxResponseTime: 5000
-    url: https://maple.zyradyl.moe
   - name: Maple - Watch Service
     icon: https://jellyfin.org/images/favicon.ico
     maxResponseTime: 5000
