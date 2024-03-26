@@ -1,7 +1,7 @@
 url: https://auth.zyradyl.moe
-status: degraded
+status: down
 code: 523
-responseTime: 16119
-lastUpdated: 2024-03-26T03:56:13.984Z
+responseTime: 935
+lastUpdated: 2024-03-26T04:08:09.524Z
 startTime: 2023-11-14T12:10:42.307Z
 generator: Upptime <https://github.com/upptime/upptime>
