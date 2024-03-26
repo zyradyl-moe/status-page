@@ -1,7 +1,7 @@
 url: https://files.zyradyl.moe
-status: down
-code: 521
-responseTime: 260
-lastUpdated: 2024-03-26T13:16:16.600Z
+status: degraded
+code: 523
+responseTime: 15771
+lastUpdated: 2024-03-26T15:23:04.647Z
 startTime: 2023-11-19T01:56:22.279Z
 generator: Upptime <https://github.com/upptime/upptime>
