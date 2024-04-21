@@ -1,7 +1,7 @@
 url: https://maple.zyradyl.moe
-status: up
-code: 200
-responseTime: 810
-lastUpdated: 2024-04-21T08:17:45.311Z
+status: degraded
+code: 523
+responseTime: 22742
+lastUpdated: 2024-04-21T08:44:51.560Z
 startTime: 2023-11-20T10:08:40.353Z
 generator: Upptime <https://github.com/upptime/upptime>
