@@ -4,10 +4,10 @@
     "url": "https://auth.zyradyl.moe",
     "icon": "https://www.authelia.com/favicon.ico",
     "slug": "auth-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "96.20%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.86%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "96.20%",
     "time": 1344,
@@ -99,7 +99,7 @@
       "2024-01-24": 35,
       "2024-01-23": 72,
       "2024-01-22": 221,
-      "2024-01-21": 12
+      "2024-01-21": 6
     }
   },
   {
@@ -297,18 +297,18 @@
     "icon": "https://3149836655-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/spaces%2F-M8KDxOujDoPpJyJJ5_i%2Favatar-1590579241040.png?generation=1590579241552005&alt=media",
     "slug": "maple-media-browser",
     "status": "down",
-    "uptime": "24.42%",
+    "uptime": "24.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.42%",
+    "uptimeYear": "24.41%",
     "time": 1101,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2024-09-04": 1403,
+      "2024-09-04": 1421,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -724,7 +724,7 @@
     "timeMonth": 0,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-09-04": 1404,
+      "2024-09-04": 1423,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
