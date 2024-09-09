@@ -4,18 +4,19 @@
     "url": "https://auth.zyradyl.moe",
     "icon": "https://www.authelia.com/favicon.ico",
     "slug": "auth-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "96.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "96.26%",
-    "time": 1336,
-    "timeDay": 811,
-    "timeWeek": 926,
-    "timeMonth": 855,
-    "timeYear": 1336,
+    "time": 1337,
+    "timeDay": 914,
+    "timeWeek": 940,
+    "timeMonth": 858,
+    "timeYear": 1337,
     "dailyMinutesDown": {
+      "2024-09-09": 0,
       "2024-09-05": 7,
       "2024-09-04": 10,
       "2024-09-03": 4,
@@ -99,7 +100,7 @@
       "2024-01-26": 6,
       "2024-01-24": 35,
       "2024-01-23": 72,
-      "2024-01-22": 221
+      "2024-01-22": 216
     }
   },
   {
@@ -308,7 +309,7 @@
     "timeMonth": 0,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2024-09-09": 767,
+      "2024-09-09": 777,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -729,7 +730,7 @@
     "timeMonth": 0,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-09-09": 768,
+      "2024-09-09": 778,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
