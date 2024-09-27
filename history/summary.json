@@ -6,16 +6,17 @@
     "slug": "auth-portal",
     "status": "up",
     "uptime": "96.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "96.52%",
     "time": 1307,
-    "timeDay": 846,
-    "timeWeek": 829,
-    "timeMonth": 847,
+    "timeDay": 864,
+    "timeWeek": 832,
+    "timeMonth": 848,
     "timeYear": 1307,
     "dailyMinutesDown": {
+      "2024-09-27": 4,
       "2024-09-25": 5,
       "2024-09-22": 10,
       "2024-09-21": 4,
@@ -108,7 +109,7 @@
       "2024-01-29": 66,
       "2024-01-28": 137,
       "2024-01-26": 6,
-      "2024-01-24": 32
+      "2024-01-24": 26
     }
   },
   {
@@ -226,7 +227,7 @@
     "uptime": "91.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "91.58%",
     "time": 1496,
     "timeDay": 1123,
@@ -323,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2024-09-27": 1404,
+      "2024-09-27": 1425,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -764,7 +765,7 @@
     "timeMonth": 0,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-09-27": 1405,
+      "2024-09-27": 1427,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
